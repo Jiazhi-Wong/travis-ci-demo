@@ -1,5 +1,9 @@
 This is a beginner tutorial of Travis CI for Node projects.
 
+[![Build Status](https://travis-ci.org/Jiazhi-Wong/travis-ci-demo.svg?branch=master)](https://travis-ci.org/Jiazhi-Wong/travis-ci-demo)
+[![Coverage Status](https://coveralls.io/repos/github/Jiazhi-Wong/travis-ci-demo/badge.svg?branch=master)](https://coveralls.io/github/Jiazhi-Wong/travis-ci-demo?branch=master)
+
+
 ## How to use
 
 **Step 1**
